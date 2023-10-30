@@ -1,25 +1,26 @@
-"Este es mi primer proyecto en GIT"
-
-Título
-Este es un título principal.
+# Título
+## Esta es mi pagina en git.
 
 Enlace
-Aquí tienes un enlace a Google.
+![El nano aeee](https://static.eldiario.es/clip/92f0ec39-fe19-4072-846a-0272bee707fe_16-9-aspect-ratio_default_0.jpg)
 
 Imagen
-Imagen de ejemplo
+![Padre](C:\Users\jcarl\IAW\GIT_PRUEBAS\mi-proyecto\descarga.jpeg)
 
-Tabla
-Nombre	Edad	Ciudad
-Juan	25	Barcelona
-María	30	Madrid
-Pedro	22	Valencia
-Listas
-Lista ordenada:
-Elemento 1
-Elemento 2
-Elemento 3
-Lista no ordenada:
-Elemento A
-Elemento B
-Elemento C
+## Tabla
+| Nombre   | Edad | Ciudad     |
+|----------|------|------------|
+| Juan     | 25   | Barcelona  |
+| María   | 30   | Madrid     |
+| Pedro    | 22   | Valencia   |
+
+## Listas
+### Lista ordenada:
+1. Elemento 1
+2. Elemento 2
+3. Elemento 3
+
+### Lista no ordenada:
+* Elemento 1
+* Elemento 2
+* Elemento 3
