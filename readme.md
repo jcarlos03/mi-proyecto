@@ -1,8 +1,8 @@
 # Título
 ## Esta es mi pagina en git.
 
-Enlace
-#![El nano aeee](https://static.eldiario.es/clip/92f0ec39-fe19-4072-846a-0272bee707fe_16-9-aspect-ratio_default_0.jpg)
+#Enlace
+![El nano aeee](https://static.eldiario.es/clip/92f0ec39-fe19-4072-846a-0272bee707fe_16-9-aspect-ratio_default_0.jpg)
 
 Imagen
 ![Padre](C:\Users\jcarl\IAW\GIT_PRUEBAS\mi-proyecto\descarga.jpeg)
