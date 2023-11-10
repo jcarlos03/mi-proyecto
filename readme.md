@@ -26,5 +26,3 @@ Imagen
 * Elemento 3
 
 Cambio del proyecto diff
-
-2º Cambio del proyecto diff
